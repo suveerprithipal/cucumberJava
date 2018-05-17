@@ -1,7 +1,7 @@
 # cucumberJava
 Java project with cucumber/gherkin,RestTemplates, Rest-Assured and API testing 
 
-####Maven Spring Java application that hosts Cucumber, Junit, Rest-Assured and RestTemplates
+#### Maven Spring Java application that hosts Cucumber, Junit, Rest-Assured and RestTemplates
 
 In this project you will find an example of Rest API testing using 2 methods:
 
